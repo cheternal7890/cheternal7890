@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<p>🎓 Graduating in 2025 with a B.S. in IT </p>
-<p>💻 Currently a web designer</p>
-<p>💬 Let's chat about photography 📷</p>
-<p>🎲 Fun fact: I'm into space exploration 🚀</p>
-<p>🌴 Check out my website: cesarjimenez.us</p>
+
+<p><li>🎓 Graduating in 2025 with a B.S. in IT </li></p>
+<p><li>💻 Currently a web designer</li></p>
+<p><li>💬 Let's chat about photography 📷</li></p>
+<p><li>🎲 Fun fact: I'm into space exploration 🚀</li></p>
+<p><li>🌴 Check out my website: cesarjimenez.us</li></p>
