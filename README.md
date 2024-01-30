@@ -5,4 +5,7 @@
 <p><li>💻 Currently a web designer</li></p>
 <p><li>💬 Let's chat about photography 📷</li></p>
 <p><li>🎲 Fun fact: I'm into space exploration 🚀</li></p>
-<p><li>🌴 Check out my website: cesarjimenez.us</li></p>
+<p>
+    <li>🌴 Check out my website: <a href="https://cesarjimenez.us/">cesarjimenez.us</a></li>
+</p>
+
